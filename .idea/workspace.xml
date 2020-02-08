@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3231f12d-ac8e-4d46-97f4-1275e2be68aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pickels/16k_apperal_data" beforeDir="false" afterPath="$PROJECT_DIR$/pickels/16k_apperal_data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recommendationsystem.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/recommendationsystem.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,7 +61,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Git file" value="6" />
-          <entry key="Python" value="95" />
+          <entry key="Python" value="118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -75,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/recommendationsystem.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="29" />
+              <selected id="59" />
             </state>
           </provider>
         </entry>
@@ -84,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/../RECOMENDATION_ENGINE/AppliedAIWorkshop-checkpoint.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="29" />
+              <selected id="63" />
             </state>
           </provider>
         </entry>
@@ -136,7 +138,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="add_unversioned_files" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -165,6 +167,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21414408" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -177,7 +180,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3602837" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3602837" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -206,7 +209,7 @@
     <entry file="file://$PROJECT_DIR$/recommendationsystem.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="29" />
+          <selected id="59" />
         </state>
       </provider>
     </entry>
